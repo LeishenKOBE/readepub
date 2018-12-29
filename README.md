@@ -1,5 +1,7 @@
 # myreader
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/LeishenKOBE/readepub.svg)](https://greenkeeper.io/)
+
 > A Vue.js project
 
 ## Build Setup
